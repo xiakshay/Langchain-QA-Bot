@@ -25,3 +25,7 @@
 
 
 **I used an API from OpenAI along with LangChain to get more efficient results.**
+
+**Live on HuggingFace**
+[Google Gmini Bill extractor Link](https://huggingface.co/spaces/xiakshay/langchainQAbot/tree/main)
+https://huggingface.co/spaces/xiakshay/langchainQAbot/tree/main
